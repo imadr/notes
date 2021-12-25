@@ -1,0 +1,2 @@
+# notes
+Alternative to Notion
